@@ -16,4 +16,4 @@ A shader for Blender forked from the open-source ArcSys [shader](https://github.
 This shader does not aim to accurately replicate the game's shader, but rather to implement functionality with the models. Feel free to modify it to your own needs.
 
 ## Special Thanks
-Aerthas - for the main shader I modified.
+[Aerthas](https://github.com/Aerthas/) - for the main shader I modified.
