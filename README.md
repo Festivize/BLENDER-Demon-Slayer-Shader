@@ -1,16 +1,19 @@
-# Arc System Works Shader - Blender Edition ONLY FOR 2.9+
-## If you are looking for my Unity Arc System Works shaders, they are found here:
-https://github.com/Aerthas/UNITY-Arc-system-Works-Shader<br/>
-Youtube playlist detailing how to set up models and usage of the shader: [Link to playlist here](https://www.youtube.com/playlist?list=PLCkHUM_E60CSi1HowXR3v4uVWNqUDsl9l)<br/>
-If you have any questions, or want to show off some renders, [feel free to join my discord](https://discord.gg/EkCSZg8).
+# Demon Slayer Shader for Blender 2.9+
+A shader for Blender forked from the open-source ArcSys [shader](https://github.com/Aerthas/BLENDER-Arc-System-Works-Shader) by Aerthas, hacked to work with models from the game Demon Slayer – The Hinokami Chronicles.
 
-![Bandit Bringer](Previews/Bandit-Bringer.gif)<br/>
-![The fuck](Previews/The%20fuck.png)<br/>
-![Face](Previews/Facial-Animations.gif)<br/>
+## Preview
+![Preview](/preview/preview1.gif)
+![Preview](/preview/preview2.gif)
+![Preview](/preview/preview3.gif)
+![Preview](/preview/preview4.gif)
 
-![Goku](Previews/Goku.gif)<br/>
-![Sol](Previews/Sol.gif)<br/>
+## Usage
+1. Download the shader here.
+2. Append the material *Demon Slayer Shader* to your project.
+3. Plug the textures to their respective slots **if applicable.**
 
-Still a work in progress
-Based on my Unity shader, but due to limitations of Blender nodes there is no control on the outline thickness that the Unity shader has.<br/>
-If you know how to do a vertex offset inside of Blender using shaders, please let me know.<br/>
+## Notes
+This shader does not aim to accurately replicate the game's shader, but rather to implement functionality with the models. Feel free to modify it to your own needs.
+
+## Special Thanks
+Aerthas - for the main shader I modified.
