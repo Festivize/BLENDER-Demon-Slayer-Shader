@@ -8,7 +8,7 @@ A shader for Blender forked from the open-source ArcSys [shader](https://github.
 ![Preview](/preview/preview4.gif)
 
 ## Usage
-1. Download the shader here.
+1. Download the shader [here](https://github.com/Festivize/BLENDER-Demon-Slayer-Shader/releases/download/v1.0/Demon.Slayer.Shader.v1.0.blend).
 2. Append the material *Demon Slayer Shader* to your project.
 3. Plug the textures to their respective slots **if applicable.**
 
@@ -16,4 +16,4 @@ A shader for Blender forked from the open-source ArcSys [shader](https://github.
 This shader does not aim to accurately replicate the game's shader, but rather to implement functionality with the models. Feel free to modify it to your own needs.
 
 ## Special Thanks
-Aerthas - for the main shader I modified.
+[Aerthas](https://github.com/Aerthas/) - for the main shader I modified.
