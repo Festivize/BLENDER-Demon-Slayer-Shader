@@ -1,5 +1,5 @@
-# Demon Slayer Shader for Blender 2.9+
-A shader for Blender forked from the open-source ArcSys [shader](https://github.com/Aerthas/BLENDER-Arc-System-Works-Shader) by Aerthas, hacked to work with models from the game Demon Slayer – The Hinokami Chronicles.
+# Demon Slayer Shader for Blender 3.0+
+A shader for Blender forked from the open-source ArcSys [shader](https://github.com/Aerthas/BLENDER-Arc-System-Works-Shader) by Aerthas, hacked to work with models from the game Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles
 
 ## Preview
 ![Preview](/preview/preview1.gif)
