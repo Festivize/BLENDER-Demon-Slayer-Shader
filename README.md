@@ -1,3 +1,5 @@
+# This repository is no longer being worked on. Feel free to look at CrypticLight's [shader](https://github.com/CrypticGit/CC2-KNY-Shader-Blender-3.0) instead - it has better results.
+
 # Demon Slayer Shader for Blender 3.0+
 A shader for Blender forked from the open-source ArcSys [shader](https://github.com/Aerthas/BLENDER-Arc-System-Works-Shader) by Aerthas, hacked to work with models from the game Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles
 
